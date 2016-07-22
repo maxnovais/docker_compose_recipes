@@ -1,1 +1,3 @@
-# docker_compose_recipes
+# Docker Compose Recipes
+
+Somente pequenas receitas de docker-compose. :)
